@@ -45,6 +45,7 @@
     .areacontain{
         width: 90%;
         height: max-content;
+        overflow: auto;
         background: #F7FDFF;
         display: flex;
         justify-content: center;
