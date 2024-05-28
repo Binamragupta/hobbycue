@@ -51,11 +51,11 @@ function Homepage() {
                     </div>
                 </div>
             </div>
-            <div><Cardsarea className="compo"/></div>
-            <div><Addarea className="compo"/></div>
-            <div><Testimonialsection className="compo"/></div>
-            <div><Lastsection className="compo"/></div>
-            <div><Bottom className="compo"/></div>
+            <div className="compo"><Cardsarea /></div>
+            <div className="compo"><Addarea /></div>
+            <div className="compo"><Testimonialsection /></div>
+            <div className="compo"><Lastsection /></div>
+            <div className="compo"><Bottom /></div>
         </div>
     </>
   )
