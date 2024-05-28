@@ -86,14 +86,16 @@
     .landing-txt-area{
         width: 100%;
         height: fit-content;
-        top: 50px;
-        left: 50px;
     }
     .landing-area{
         max-width:100%;
         height: fit-content;
         display: flex;
+        box-sizing: content-box;
         flex-direction: column;
+        top:0px;
+        left:0px;
+        padding: 5px;
         
     }
     .head{
@@ -128,24 +130,19 @@
     
     }
     .signup-area{
-        width: 90%;
-        height: 434px;
+        max-width: 90%;
+        box-sizing: border-box;
+       height: fit-content;
     
     }
     .sign-btnarea{
         margin-bottom: 2rem;
     }
     .sign{
-        width: 89px;
-        height: 30px;
+        width: 69px;
+        height: 25px;
         font-family: Poppins;
-        font-size: 20px;
-        font-weight: 600;
-        line-height: 30px;
-        text-align: left;
-        color: #939CA3;
-        border: none;
-        background-color: white;
-        margin: 0rem 0.4rem;
+        font-size: 16px;
+        margin: 0rem 0.9rem;
     }
 }
