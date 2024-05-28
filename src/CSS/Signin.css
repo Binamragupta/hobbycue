@@ -89,12 +89,19 @@
     }
     .emailinp{
         width: 90%;
-        height: 40px;
-        gap: 10px;
+        height: 32px;
         border-radius: 8px ;
         opacity: 0px;
         background: #FFFFFF;
         border: 1px solid #EBEDF0
+    }
+    .forgetpass{
+        width: 90%;
+        height: 12px;
+        display: flex;
+        justify-content: space-between;
+    
+    
     }
     .continuebtn{
         width: 90%;
