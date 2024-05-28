@@ -57,19 +57,19 @@
     padding-top: 10px;
 }
 @media (max-width:800px){
+    .conimg{
+        max-width: 90%;;
+    }
     .signcontain{
-        width:100%;
-        height: fit-content;
+        width:90%;
         display: flex;
-        flex-direction: column;
+        flex-direction:column-reverse;
         row-gap: 10px;
-    
-    
     }
     .choosebtn{
         width: 90%;
         height: 40px;
-        padding: 12px 100px 12px 24px;
+        padding: 12px 24px;
         border-radius: 8px ;
         opacity: 0px;
         gap: 80px;
@@ -80,21 +80,16 @@
         font-size: 14px;
         font-weight: 600;
         line-height: 16px;
-    
-    
     }
     .forgetpass{
         width: 90%;
         height: 16px;
         display: flex;
         justify-content: space-between;
-    
-    
     }
     .emailinp{
         width: 90%;
         height: 40px;
-        padding: 12px 65px 12px 12px;
         gap: 10px;
         border-radius: 8px ;
         opacity: 0px;
