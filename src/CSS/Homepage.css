@@ -86,8 +86,8 @@
     .landing-txt-area{
         width: 100%;
         height: fit-content;
-        top: 100px;
-        left: 100px;
+        top: 50px;
+        left: 50px;
     }
     .landing-area{
         max-width:100%;
