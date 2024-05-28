@@ -75,8 +75,8 @@
         background-color: #fcfcfc;
         display: flex;
         flex-direction: column;
-        row-gap: 2rem;
-        padding: 2rem;
+        row-gap: 1rem;
+        padding: 1rem;
         font-family: Poppins;
         font-size: 12px;
         font-weight: 300;
