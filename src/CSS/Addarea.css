@@ -54,8 +54,8 @@
     }
     .headia{
         display: flex;
-        width: 232px;
-        height: 40px;
+        width: 75%;
+        height: 20px;
         justify-content: space-between;
         align-items: center;
         margin-bottom: 2rem;
@@ -64,23 +64,23 @@
     }
     .headarea{
         font-family: Poppins;
-        font-size: 24px;
+        font-size: 15px;
         font-weight: 600;
-        line-height: 36px;
+        line-height: 16px;
         text-align: left;
     }
     .maintxt{
-        width: 1200px;
-        height: 284px;
+        width: 100%;
+        height: fit-content;
         background-color: #fcfcfc;
         display: flex;
         flex-direction: column;
         row-gap: 2rem;
         padding: 2rem;
         font-family: Poppins;
-        font-size: 18px;
+        font-size: 12px;
         font-weight: 300;
-        line-height: 30px;
+        line-height: 13px;
         letter-spacing: 0.02em;
         text-align: left;
     
