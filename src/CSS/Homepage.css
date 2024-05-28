@@ -88,7 +88,7 @@
         height: fit-content;
     }
     .landing-area{
-        max-width:100%;
+        max-width:90%;
         height: fit-content;
         display: flex;
         box-sizing: content-box;
