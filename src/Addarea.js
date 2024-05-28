@@ -11,7 +11,7 @@ function Addarea() {
                     <div><img src={add} alt="" /></div>
                     <div className='headarea'>Add your own</div>
                 </div>
-                <div>Are you a teacher or expert?  Do you sell or rent out equipment, venue or event tickets?  Or, you know someone who should be on hobbycue?  Go ahead and Add your Own page</div>
+                <div className='desct'>Are you a teacher or expert?  Do you sell or rent out equipment, venue or event tickets?  Or, you know someone who should be on hobbycue?  Go ahead and Add your Own page</div>
                 <div>
                     <button className='signinbtn'>Sign in</button>
                 </div>

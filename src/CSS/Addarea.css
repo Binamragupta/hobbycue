@@ -86,4 +86,11 @@
     
     
     }
+    .desct{
+        font-size: 12px;
+    }
+    .signinbtn{
+        width: 80%;
+        height: 32px;
+    }
 }
