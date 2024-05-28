@@ -44,7 +44,7 @@
 @media (max-width:800px){
     .areacontain{
         width: 90%;
-        height: fit-content;
+        height: max-content;
         background: #F7FDFF;
         display: flex;
         justify-content: center;
