@@ -156,5 +156,8 @@
         text-align: left;
         color: #6D747A;
     }
+    .strength{
+        display: 0;
+    }
 }
 
