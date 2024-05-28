@@ -43,12 +43,13 @@
 }
 @media (max-width:800px){
     .areacontain{
-        width: 100%;
-        height: 484px;
+        width: 90%;
+        height: fit-content;
         background: #F7FDFF;
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-bottom: 5rem;
     
     }
     .headia{
