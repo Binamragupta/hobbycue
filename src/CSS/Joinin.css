@@ -95,4 +95,53 @@
     color: #08090A;
 
 }
+@media (max-width:800px){
+    .conimg{
+        width: 80%;
+    }
+    .signcontain{
+        width:100%;
+        display: flex;
+        flex-direction:column-reverse;
+        row-gap: 10px;
+    }
+    .choosebtn{
+        width: 80%;
+        height: 40px;
+        border-radius: 8px ;
+        background: #F7F5F9;
+        border: 1px solid #8064A2;
+        display: flex;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 16px;
+    }
+    .forgetpass{
+        width: 90%;
+        height: 16px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .emailinp{
+        width: 90%;
+        height: 40px;
+        gap: 10px;
+        border-radius: 8px ;
+        opacity: 0px;
+        background: #FFFFFF;
+        border: 1px solid #EBEDF0
+    }
+    .contibtn{
+        width: 90%;
+        height: 30px;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-top: 10px;
+    }
+}
 
