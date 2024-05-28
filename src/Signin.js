@@ -24,7 +24,7 @@ function Signin() {
                 Continue with Facebook
                 </div>
         </div>
-        <div className='conimg'><img src={conimg} alt="" /></div>
+        <div ><img src={conimg} alt="" className='conimg'/></div>
         <div><input type="text" className='emailinp' placeholder='Email'/></div>
         <div><input type="text" className='emailinp' placeholder='Password'/></div>
         <div className='forgetpass'>
