@@ -1,0 +1,146 @@
+.cuelogo{
+    height: 60px;
+    width:293.26px;
+}
+nav{
+    height: 80px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.section1{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section2{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 10px;
+
+}
+.nav-icon{
+    height: 24px;
+    width: 24px;
+    color: #8064A2;
+}
+.search {
+    width:300px;
+    height:40px;
+    position: relative;
+    display: flex;
+  }
+  
+  .searchTerm {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #EBEDF0;
+    border-right: none;
+    border-radius: 8px;
+    outline: none;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #939CA3;
+    ;
+  }
+  
+  
+  .searchButton {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #8064A2;
+    background: #8064A2;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 8px 8px 0;
+    cursor: pointer;
+  }
+  .search-icon{
+    width: 16px;
+    height: 16px;
+  }
+  .dropdown-txt{
+    height: 24px;
+    width: 107px;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .signinbtn{
+    width: 112px;
+    height: 40px;
+    border-radius: 8px ;
+    border: 1px solid #8064A2;
+    font-size: 14px;
+    line-height: 16px;
+    background-color: white;
+    color: #8064A2;
+  }
+  .section3{
+    display: none;
+  }
+  @media (max-width:800px){
+    .cuelogo{
+      width: 156.4px;
+      height: 32px;
+      top: 8px;
+      left: 22px;
+      
+  }
+  nav{
+      height: 48px;
+      max-width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  }
+  .section1{
+      width: 45%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .section2{
+    display: none;
+  }
+  .section3{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .nav-icon{
+      height: 24px;
+      width: 24px;
+      color: #8064A2;
+  }
+  .search {
+      display: none;
+    }
+    .search-icon{
+      width: 24px;
+      height: 24px;
+      color: #8064A2;
+    }
+   .nav-icon{
+    width: 24px;
+    height: 24px;
+    color: #8064A2;
+   }
+   .ham{
+    width: 24px;
+    height: 24px;
+    color: #8064A2;
+   }
+    
+    
+  }

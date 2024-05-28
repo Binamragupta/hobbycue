@@ -1,0 +1,98 @@
+.signcontain{
+    width:410px;
+    height: 432px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+
+
+}
+.choosebtn{
+    width: 410px;
+    height: 40px;
+    padding: 12px 100px 12px 24px;
+    border-radius: 8px ;
+    opacity: 0px;
+    gap: 80px;
+    background: #F7F5F9;
+    border: 1px solid #8064A2;
+    display: flex;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+
+
+}
+.forgetpass{
+    width: 410px;
+    height: 16px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.emailinp{
+    width: 410px;
+    height: 40px;
+    padding: 12px 65px 12px 12px;
+    gap: 10px;
+    border-radius: 8px ;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #EBEDF0
+}
+.contibtn{
+    width: 410px;
+    height: 40px;
+    border-radius: 8px ;
+    background: #8064A2;
+    color: #F7F5F9;
+    border: 1px solid #8064A2;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+}
+.passstrength{
+    width: 410px;
+    height: 16px;
+    display: flex;
+    justify-content: space-between;
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+    color: #939CA3;
+
+
+}
+.stre{
+    width: 57px;
+    height: 3px;
+    border-radius: 4px;
+    background: #ece4e4;
+
+}
+.strength{
+    width: 138px;
+    display: flex;
+    justify-content: space-between;
+}
+.term{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #6D747A;
+}
+.bold{
+    color: #08090A;
+
+}
+
