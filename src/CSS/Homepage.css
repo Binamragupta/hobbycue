@@ -71,7 +71,7 @@
 
 @media (max-width:800px){
     .compo{
-        margin: 9rem 0rem;
+        margin: 9rem 0rem 0rem 0rem;
         box-sizing: border-box;
         height: max-content;
     }
