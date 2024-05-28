@@ -67,10 +67,11 @@
         row-gap: 10px;
     }
     .choosebtn{
-        width: 80%;
+        width: 88%;
         height: 40px;
         border-radius: 8px ;
         background: #F7F5F9;
+        padding: 8px 10px 8px 8px;
         border: 1px solid #8064A2;
         display: flex;
         font-family: Poppins;
