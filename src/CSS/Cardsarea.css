@@ -32,7 +32,7 @@
     }
     /* 24px row gap */
     .cardarea{
-        width: 100%;
+        width: 90%;
         height: 618px;
         display: flex;
         flex-direction: column;
