@@ -98,6 +98,7 @@
 @media (max-width:800px){
     .conimg{
         width: 80%;
+        height: 16px;
     }
     .signcontain{
         width:100%;
@@ -107,9 +108,9 @@
     }
     .choosebtn{
         width: 88%;
-        height: 40px;
+        height: 32px;
         border-radius: 8px ;
-        gap: 30px;
+        gap: 20px;
         background: #F7F5F9;
         padding: 8px 10px 8px 8px;
         border: 1px solid #8064A2;
@@ -118,6 +119,8 @@
         font-size: 12px;
         font-weight: 600;
         line-height: 12px;
+        width: 312px;;
+
     }
     .forgetpass{
         width: 80%;
@@ -156,9 +159,10 @@
         line-height: 13px;
         text-align: left;
         color: #6D747A;
+        padding: 10px 0px;
     }
     .strength{
-        display: 0;
+        display: none;
     }
 }
 

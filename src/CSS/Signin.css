@@ -59,6 +59,7 @@
 @media (max-width:800px){
     .conimg{
         width: 80%;
+        height: 16px;
     }
     .signcontain{
         width:100%;
